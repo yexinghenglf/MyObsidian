@@ -13087,12 +13087,12 @@ $$
 <br>
 <br>这是一个非常好用的框架。<a href="\#fnref-1-84222bcfa849571c" class="footnote-backref footnote-link" target="_self" rel="noopener">↩︎</a>
 ]]></description><link>Typora\Typora.html</link><guid isPermaLink="false">Typora/Typora.md</guid><pubDate>Sat, 14 Oct 2023 12:16:45 GMT</pubDate></item><item><title><![CDATA[typore上传图片配置]]></title><description><![CDATA[ 
- <br>area:oss-cn-chengdu<br>bucket:typora-yxh<br>AccessKey ID:  LTAI5tLjFP2ELctMypX9fC2p<br>AccessKey Secret: RC0zymL0TYr8Oif5HeI6oNGRQCk3QF<br>TextcustomUrl:http://typora-yxh.oss-cn-chengdu.aliyuncs.com
+ <br>area:oss-cn-chengdu<br>bucket:typora-yxh<br><br>AccessKey Secret: RC0zymL0TYr8Oif5HeI6oNGRQCk3QF<br>TextcustomUrl:http://typora-yxh.oss-cn-chengdu.aliyuncs.com
 复制<br>Text{
     "picBed": {
         "uploader": "aliyun",
         "aliyun": {
-        "accessKeyId": "LTAI5tLjFP2ELctMypX9fC2p",
+        "accessKeyId": "",
         "accessKeySecret": "RC0zymL0TYr8Oif5HeI6oNGRQCk3QF",
         "bucket": "typora-yxh",
         "area": "oss-cn-chengdu", 
