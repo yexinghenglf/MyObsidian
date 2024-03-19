@@ -1,0 +1,953 @@
+{
+  "vaultName": "Study",
+  "lastExport": 1710852043483,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark outliner-plugin-dnd AT-row is-fullscreen float-outline-style enable-bar-heading-text anp-background-image-toggle anp-file-icons anp-simple-rainbow-color-toggle anp-simple-rainbow-title-toggle anp-simple-rainbow-icon-folder-toggle anp-simple-rainbow-indentation-toggle anp-simple-rainbow-collapse-toggle anp-simple-rainbow-icon-toggle anp-rainbow-subfolder-color-toggle anp-card-layout anp-bg-fix anp-hide-borders ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-custom-checkboxes anp-speech-bubble anp-codeblock-numbers anp-list-toggle anp-h1-blue anp-h2-peach anp-h3-maroon anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-red anp-italic-red anp-highlight-red anp-theme-ext-light anp-theme-ext-dark ctp-nord-light ctp-atom-dark rainbow-repeat-11 rainbow-color-1-rosewater rainbow-color-2-maroon rainbow-color-3-peach rainbow-color-4-red rainbow-color-5-yellow rainbow-color-6-green rainbow-color-7-teal rainbow-color-8-sky rainbow-color-9-sapphire rainbow-color-10-mauve rainbow-color-11-flamingo",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "大数据/Hive练习/练习文件夹/log1.txt",
+    "大数据/Hive练习/01.基础查询.docx",
+    "大数据/Hive练习/02.初级函数.docx",
+    "大数据/Hive练习/03.中级练习.docx",
+    "大数据/Hive练习/04.高级练习.docx",
+    "大数据/Hive练习/大数据技术之Hive.xmind",
+    "大数据/Hive练习/尚硅谷大数据技术之Hive（V4.9.0）.docx",
+    "大数据/Hive练习/尚硅谷大数据之Hive.xmind",
+    "大数据/PDF/day02 Zookeeper.pdf",
+    "大数据/PDF/day03 YARN.pdf",
+    "大数据/PDF/day04 MapReduce.pdf",
+    "大数据/PDF/Flume.pdf",
+    "大数据/PDF/HDFS.pdf",
+    "大数据/PDF/Hive02.pdf",
+    "大数据/PDF/Scala_01-没有答案.pdf",
+    "大数据/PDF/Scala_02-没有答案.pdf",
+    "大数据/PDF/Spark编程中文版.pdf",
+    "大数据/PDF/Spark快速大数据分析.pdf",
+    "大数据/PDF/SparkCore-01-新.pdf",
+    "大数据/PDF/sqoop-没有答案.pdf",
+    "大数据/scala/scala函数.md",
+    "大数据/scala/scala集合.md",
+    "大数据/Hadoop3.3.6.md",
+    "大数据/HDFS.md",
+    "大数据/Hive-SQL语法大全.md",
+    "模板/日记模板.md",
+    "模板/未命名.md",
+    "模板/ColorfulClock.md",
+    "模板/dataview模板.md",
+    "爬虫/爬虫文档/06_MySQL数据存储.md",
+    "爬虫/爬虫文档/面向对象.md",
+    "爬虫/爬虫文档/BS4笔记.md",
+    "爬虫/爬虫文档/day06 xpath.md",
+    "爬虫/爬虫文档/ip代理词思路规划.md",
+    "爬虫/爬虫文档/Mongodb.md",
+    "爬虫/爬虫文档/redis.md",
+    "爬虫/爬虫文档/Scrapy01-框架初认识.md",
+    "爬虫/爬虫文档/Scrapy02深入使用-存储.md",
+    "爬虫/爬虫文档/Scrapy03-模拟登陆以及分页.md",
+    "爬虫/爬虫文档/Scrapy04-中间件.md",
+    "爬虫/爬虫文档/Scrapy05-分页抓取_20230315_220513.md",
+    "爬虫/爬虫文档/Scrapy06-scrapy_redis.md",
+    "爬虫/爬虫文档/selenium.md",
+    "爬虫/爬虫文档/urllib与requests1.md",
+    "爬虫/爬虫文档/urllib与requests2.md",
+    "爬虫/爬虫文档/xpath.md",
+    "爬虫/Scrapy.md",
+    "爬虫/spider-mysql.md",
+    "日记/2023-10-14.md",
+    "日记/2023-10-15.md",
+    "日记/2023-10-16.md",
+    "日记/2023-10-17.md",
+    "日记/2023-10-18.md",
+    "日记/2023-10-19.md",
+    "日记/2023-10-21.md",
+    "日记/2023-10-22.md",
+    "日记/2023-10-23.md",
+    "日记/2023-10-24.md",
+    "日记/2023-10-25.md",
+    "日记/2023-10-26.md",
+    "日记/2024-01-10.md",
+    "日记/2024-01-11.md",
+    "日记/2024-01-12.md",
+    "Java/PDF/重学Java设计模式.pdf",
+    "Java/反射&动态代理.md",
+    "PDF与其他/0-前置章节-环境准备.pptx",
+    "PDF与其他/1-第一章 - Hello大数据&分布式.pptx",
+    "PDF与其他/2-第二章 - 分布式存储 Hadoop HDFS.pptx",
+    "PDF与其他/3-第三章 - MapReduce & YARN入门.pptx",
+    "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门.pptx",
+    "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门(1).pptx",
+    "PDF与其他/大创项目计划书.pdf",
+    "PDF与其他/计算机网络.pdf",
+    "PDF与其他/Spring6.pdf",
+    "PDF与其他/SSM笔记（一）Spring基础.pdf",
+    "Template/ReactJS/ColorfulClock.md",
+    "Template/ReactJS/react_music.md",
+    "Template/ReactJS/react_weather.md",
+    "Template/彩色时钟.md",
+    "Typora/精选壁纸/场景.md",
+    "Typora/精选壁纸/动漫.md",
+    "Typora/精选壁纸/风景.md",
+    "Typora/精选壁纸/极简.md",
+    "Typora/精选壁纸/童话绘本风.md",
+    "Typora/精选壁纸/图片.md",
+    "Typora/正则.md",
+    "Typora/Typora.md",
+    "Typora/typore上传图片配置.md",
+    "Typora/weather.js",
+    "学习初始页面.md",
+    "AnuPpuccinMD元素设置对照.md",
+    "Home🏡.md",
+    "Obsidian插件教程.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "大数据/Hive练习/练习文件夹/log1.txt": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1808,
+      "exportedPath": "大数据/Hive练习/练习文件夹/log1.txt",
+      "dependencies": []
+    },
+    "大数据/Hive练习/01.基础查询.docx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 46934,
+      "exportedPath": "大数据/Hive练习/01.基础查询.docx",
+      "dependencies": []
+    },
+    "大数据/Hive练习/02.初级函数.docx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 11037844,
+      "exportedPath": "大数据/Hive练习/02.初级函数.docx",
+      "dependencies": []
+    },
+    "大数据/Hive练习/03.中级练习.docx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 11304781,
+      "exportedPath": "大数据/Hive练习/03.中级练习.docx",
+      "dependencies": []
+    },
+    "大数据/Hive练习/04.高级练习.docx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4383802,
+      "exportedPath": "大数据/Hive练习/04.高级练习.docx",
+      "dependencies": []
+    },
+    "大数据/Hive练习/大数据技术之Hive.xmind": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 244095,
+      "exportedPath": "大数据/Hive练习/大数据技术之Hive.xmind",
+      "dependencies": []
+    },
+    "大数据/Hive练习/尚硅谷大数据技术之Hive（V4.9.0）.docx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 50521809,
+      "exportedPath": "大数据/Hive练习/尚硅谷大数据技术之Hive（V4.9.0）.docx",
+      "dependencies": []
+    },
+    "大数据/Hive练习/尚硅谷大数据之Hive.xmind": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 45054448,
+      "exportedPath": "大数据/Hive练习/尚硅谷大数据之Hive.xmind",
+      "dependencies": []
+    },
+    "大数据/PDF/day02 Zookeeper.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1124098,
+      "exportedPath": "大数据/PDF/day02 Zookeeper.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/day03 YARN.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 974931,
+      "exportedPath": "大数据/PDF/day03 YARN.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/day04 MapReduce.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 3383364,
+      "exportedPath": "大数据/PDF/day04 MapReduce.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Flume.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 861320,
+      "exportedPath": "大数据/PDF/Flume.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/HDFS.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 10541090,
+      "exportedPath": "大数据/PDF/HDFS.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Hive02.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1107617,
+      "exportedPath": "大数据/PDF/Hive02.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Scala_01-没有答案.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5831196,
+      "exportedPath": "大数据/PDF/Scala_01-没有答案.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Scala_02-没有答案.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1679557,
+      "exportedPath": "大数据/PDF/Scala_02-没有答案.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Spark编程中文版.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 2542924,
+      "exportedPath": "大数据/PDF/Spark编程中文版.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/Spark快速大数据分析.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 16642598,
+      "exportedPath": "大数据/PDF/Spark快速大数据分析.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/SparkCore-01-新.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4652736,
+      "exportedPath": "大数据/PDF/SparkCore-01-新.pdf",
+      "dependencies": []
+    },
+    "大数据/PDF/sqoop-没有答案.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 712885,
+      "exportedPath": "大数据/PDF/sqoop-没有答案.pdf",
+      "dependencies": []
+    },
+    "大数据/scala/scala函数.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 3388,
+      "exportedPath": "大数据/scala/scala函数.html",
+      "dependencies": []
+    },
+    "大数据/scala/scala集合.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 17157,
+      "exportedPath": "大数据/scala/scala集合.html",
+      "dependencies": []
+    },
+    "大数据/Hadoop3.3.6.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 6645,
+      "exportedPath": "大数据/Hadoop3.3.6.html",
+      "dependencies": []
+    },
+    "大数据/HDFS.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 14929,
+      "exportedPath": "大数据/HDFS.html",
+      "dependencies": []
+    },
+    "大数据/Hive-SQL语法大全.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 26410,
+      "exportedPath": "大数据/Hive-SQL语法大全.html",
+      "dependencies": []
+    },
+    "模板/日记模板.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1708,
+      "exportedPath": "模板/日记模板.html",
+      "dependencies": []
+    },
+    "模板/未命名.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 187,
+      "exportedPath": "模板/未命名.html",
+      "dependencies": []
+    },
+    "模板/ColorfulClock.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4018,
+      "exportedPath": "模板/ColorfulClock.html",
+      "dependencies": []
+    },
+    "模板/dataview模板.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1250,
+      "exportedPath": "模板/dataview模板.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/06_MySQL数据存储.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 16340,
+      "exportedPath": "爬虫/爬虫文档/06_MySQL数据存储.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/面向对象.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 14203,
+      "exportedPath": "爬虫/爬虫文档/面向对象.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/BS4笔记.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 18284,
+      "exportedPath": "爬虫/爬虫文档/BS4笔记.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/day06 xpath.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 7113,
+      "exportedPath": "爬虫/爬虫文档/day06 xpath.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/ip代理词思路规划.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 982,
+      "exportedPath": "爬虫/爬虫文档/ip代理词思路规划.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Mongodb.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 15651,
+      "exportedPath": "爬虫/爬虫文档/Mongodb.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/redis.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 14228,
+      "exportedPath": "爬虫/爬虫文档/redis.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy01-框架初认识.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 15061,
+      "exportedPath": "爬虫/爬虫文档/Scrapy01-框架初认识.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy02深入使用-存储.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 34614,
+      "exportedPath": "爬虫/爬虫文档/Scrapy02深入使用-存储.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy03-模拟登陆以及分页.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 16297,
+      "exportedPath": "爬虫/爬虫文档/Scrapy03-模拟登陆以及分页.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy04-中间件.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 16482,
+      "exportedPath": "爬虫/爬虫文档/Scrapy04-中间件.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy05-分页抓取_20230315_220513.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 6630,
+      "exportedPath": "爬虫/爬虫文档/Scrapy05-分页抓取_20230315_220513.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/Scrapy06-scrapy_redis.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 7888,
+      "exportedPath": "爬虫/爬虫文档/Scrapy06-scrapy_redis.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/selenium.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 15878,
+      "exportedPath": "爬虫/爬虫文档/selenium.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/urllib与requests1.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 18265,
+      "exportedPath": "爬虫/爬虫文档/urllib与requests1.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/urllib与requests2.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 7830,
+      "exportedPath": "爬虫/爬虫文档/urllib与requests2.html",
+      "dependencies": []
+    },
+    "爬虫/爬虫文档/xpath.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 6408,
+      "exportedPath": "爬虫/爬虫文档/xpath.html",
+      "dependencies": []
+    },
+    "爬虫/Scrapy.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 31176,
+      "exportedPath": "爬虫/Scrapy.html",
+      "dependencies": []
+    },
+    "爬虫/spider-mysql.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1970,
+      "exportedPath": "爬虫/spider-mysql.html",
+      "dependencies": []
+    },
+    "日记/2023-10-14.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 568,
+      "exportedPath": "日记/2023-10-14.html",
+      "dependencies": []
+    },
+    "日记/2023-10-15.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 8436,
+      "exportedPath": "日记/2023-10-15.html",
+      "dependencies": []
+    },
+    "日记/2023-10-16.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 12122,
+      "exportedPath": "日记/2023-10-16.html",
+      "dependencies": []
+    },
+    "日记/2023-10-17.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 14902,
+      "exportedPath": "日记/2023-10-17.html",
+      "dependencies": []
+    },
+    "日记/2023-10-18.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5182,
+      "exportedPath": "日记/2023-10-18.html",
+      "dependencies": []
+    },
+    "日记/2023-10-19.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1081,
+      "exportedPath": "日记/2023-10-19.html",
+      "dependencies": []
+    },
+    "日记/2023-10-21.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 22026,
+      "exportedPath": "日记/2023-10-21.html",
+      "dependencies": []
+    },
+    "日记/2023-10-22.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 598,
+      "exportedPath": "日记/2023-10-22.html",
+      "dependencies": []
+    },
+    "日记/2023-10-23.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 20057,
+      "exportedPath": "日记/2023-10-23.html",
+      "dependencies": []
+    },
+    "日记/2023-10-24.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 18773,
+      "exportedPath": "日记/2023-10-24.html",
+      "dependencies": []
+    },
+    "日记/2023-10-25.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 706,
+      "exportedPath": "日记/2023-10-25.html",
+      "dependencies": []
+    },
+    "日记/2023-10-26.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 688,
+      "exportedPath": "日记/2023-10-26.html",
+      "dependencies": []
+    },
+    "日记/2024-01-10.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 10112,
+      "exportedPath": "日记/2024-01-10.html",
+      "dependencies": []
+    },
+    "日记/2024-01-11.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4777,
+      "exportedPath": "日记/2024-01-11.html",
+      "dependencies": []
+    },
+    "日记/2024-01-12.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 21652,
+      "exportedPath": "日记/2024-01-12.html",
+      "dependencies": []
+    },
+    "Java/PDF/重学Java设计模式.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 20494263,
+      "exportedPath": "Java/PDF/重学Java设计模式.pdf",
+      "dependencies": []
+    },
+    "Java/反射&动态代理.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 37431,
+      "exportedPath": "Java/反射&动态代理.html",
+      "dependencies": []
+    },
+    "PDF与其他/0-前置章节-环境准备.pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 11567354,
+      "exportedPath": "PDF与其他/0-前置章节-环境准备.pptx",
+      "dependencies": []
+    },
+    "PDF与其他/1-第一章 - Hello大数据&分布式.pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4225960,
+      "exportedPath": "PDF与其他/1-第一章 - Hello大数据&分布式.pptx",
+      "dependencies": []
+    },
+    "PDF与其他/2-第二章 - 分布式存储 Hadoop HDFS.pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 9089244,
+      "exportedPath": "PDF与其他/2-第二章 - 分布式存储 Hadoop HDFS.pptx",
+      "dependencies": []
+    },
+    "PDF与其他/3-第三章 - MapReduce & YARN入门.pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 8727398,
+      "exportedPath": "PDF与其他/3-第三章 - MapReduce & YARN入门.pptx",
+      "dependencies": []
+    },
+    "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门.pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5526022,
+      "exportedPath": "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门.pptx",
+      "dependencies": []
+    },
+    "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门(1).pptx": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5526022,
+      "exportedPath": "PDF与其他/4-第四章 - 分布式SQL计算 Hive 入门(1).pptx",
+      "dependencies": []
+    },
+    "PDF与其他/大创项目计划书.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 386669,
+      "exportedPath": "PDF与其他/大创项目计划书.pdf",
+      "dependencies": []
+    },
+    "PDF与其他/计算机网络.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1017867,
+      "exportedPath": "PDF与其他/计算机网络.pdf",
+      "dependencies": []
+    },
+    "PDF与其他/Spring6.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 67136910,
+      "exportedPath": "PDF与其他/Spring6.pdf",
+      "dependencies": []
+    },
+    "PDF与其他/SSM笔记（一）Spring基础.pdf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 8864553,
+      "exportedPath": "PDF与其他/SSM笔记（一）Spring基础.pdf",
+      "dependencies": []
+    },
+    "Template/ReactJS/ColorfulClock.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4018,
+      "exportedPath": "Template/ReactJS/ColorfulClock.html",
+      "dependencies": []
+    },
+    "Template/ReactJS/react_music.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 474,
+      "exportedPath": "Template/ReactJS/react_music.html",
+      "dependencies": []
+    },
+    "Template/ReactJS/react_weather.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 710,
+      "exportedPath": "Template/ReactJS/react_weather.html",
+      "dependencies": []
+    },
+    "Template/彩色时钟.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 67,
+      "exportedPath": "Template/彩色时钟.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/场景.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1214,
+      "exportedPath": "Typora/精选壁纸/场景.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/动漫.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 737,
+      "exportedPath": "Typora/精选壁纸/动漫.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/风景.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 780,
+      "exportedPath": "Typora/精选壁纸/风景.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/极简.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 757,
+      "exportedPath": "Typora/精选壁纸/极简.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/童话绘本风.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 2564,
+      "exportedPath": "Typora/精选壁纸/童话绘本风.html",
+      "dependencies": []
+    },
+    "Typora/精选壁纸/图片.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 263,
+      "exportedPath": "Typora/精选壁纸/图片.html",
+      "dependencies": []
+    },
+    "Typora/正则.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 12770,
+      "exportedPath": "Typora/正则.html",
+      "dependencies": []
+    },
+    "Typora/Typora.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 30422,
+      "exportedPath": "Typora/Typora.html",
+      "dependencies": []
+    },
+    "Typora/typore上传图片配置.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 619,
+      "exportedPath": "Typora/typore上传图片配置.html",
+      "dependencies": []
+    },
+    "Typora/weather.js": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4137,
+      "exportedPath": "Typora/weather.js",
+      "dependencies": []
+    },
+    "学习初始页面.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 0,
+      "exportedPath": "学习初始页面.html",
+      "dependencies": []
+    },
+    "AnuPpuccinMD元素设置对照.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 4061,
+      "exportedPath": "AnuPpuccinMD元素设置对照.html",
+      "dependencies": []
+    },
+    "Home🏡.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1455,
+      "exportedPath": "Home🏡.html",
+      "dependencies": []
+    },
+    "Obsidian插件教程.md": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 2364,
+      "exportedPath": "Obsidian插件教程.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1710852043483,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
